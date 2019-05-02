@@ -1,0 +1,7 @@
+seg_cnvn	hcls	hfreq
+1	chr14a_1	1_2_2_2_1_2	6
+2	chr1a_1	1_2_2_2_2_2	991
+3	chr2a_1	1_2_2_2_2_3	2
+4	chr3a_1	1_3_2_2_2_3	1
+5	chr4a_1	NA	NA
+6	chr6a_1	NA	NA
